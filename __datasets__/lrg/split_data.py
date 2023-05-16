@@ -5,6 +5,8 @@
 
 import os
 from pathlib import Path
+import scipy
+print(scipy.__version__)
 
 import numpy as np
 import pandas as pd
