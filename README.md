@@ -17,4 +17,4 @@ conclude, artefact successfully justified the aim for this paper but also unrave
 questions in adapting existing machine models for different problem settings. It is insistent to
 keep researching this field as deep learning posses’ issues that need to be addressed.
 
-# Grade Achieved: 71% (First) or 68% overall from the "Project" Module.
+### Grade Achieved: 71% (First) or 68% overall from the "Project" Module.
